@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Welcome from './Welcome';
 
-const app = <h3>Welcom to react workshop!</h3>;
-
-ReactDOM.render(app, document.getElementById('root'));
+ReactDOM.render(<Welcome />, document.getElementById('root'));

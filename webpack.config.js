@@ -20,6 +20,8 @@ module.exports = {
 		publicPath: '/'
 	},
 
+	devtool: 'cheap-module-source-map',
+
 	devServer: {
 		hot: true,
 		contentBase: path.resolve(__dirname, 'dist'),

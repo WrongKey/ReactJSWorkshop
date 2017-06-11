@@ -24,6 +24,7 @@
     "eslint-plugin-react": "^7.0.1",
     "html-webpack-plugin": "^2.28.0",
     "open-browser-webpack-plugin": "^0.0.5",
+    "prop-types": "^15.5.10",
     "react-hot-loader": "next",
     "style-loader": "^0.18.2",
     "webpack": "^2.6.1",
